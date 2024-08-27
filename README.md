@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ0MzY0Y2htdGtyN2J2M3VmaXdjcjRxaWoycTJieXk2dmxwNzViZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"  />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/evandro-martins-49a3371b9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -10,10 +14,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ0MzY0Y2htdGtyN2J2M3VmaXdjcjRxaWoycTJieXk2dmxwNzViZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"  />
 
 ###
 
