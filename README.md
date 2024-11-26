@@ -44,6 +44,8 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50" alt="php logo"  />
+  <img width="10" />
  
 </div>
 
